@@ -1,0 +1,14 @@
+First Name,Last Name,Billing Country,Postal Code,Transaction Made At,Payment Method Type,Invoice Number,Description,Tax Amount,Sub Total,Total Amount,Currency Code
+Prudhvi,Potuganti,in,508206,"9/24/19, 6:23 PM",CreditCard,3174176475,Premium Business Subscription (Annual),0,0,0,INR
+Prudhvi,Potuganti,in,508206,"8/18/19, 1:56 PM",CreditCard,3130095715,Premium Career Subscription renewal (Monthly),252,1400,1652,INR
+Prudhvi,Potuganti,in,508206,"7/18/19, 1:56 PM",CreditCard,3095228865,Premium Career Subscription renewal (Monthly),252,1400,1652,INR
+Prudhvi,Potuganti,in,508206,"6/18/19, 2:00 PM",CreditCard,3057621035,Premium Career Subscription (Monthly),252,1400,1652,INR
+Prudhvi,Potuganti,in,500032,"3/5/19, 4:24 PM",CreditCard,2948612615,Premium Career Subscription (Monthly),252,1400,1652,INR
+Prudhvi,Potuganti,in,500032,"9/30/18, 2:02 PM",CreditCard,2804258935,Refund for order 2803366475 : Premium Career Subscription, -2484, -13800, -16284,INR
+Prudhvi,Potuganti,in,500032,"9/29/18, 4:48 PM",CreditCard,2803366475,Premium Career Subscription renewal (Annual),2484,13800,16284,INR
+Prudhvi,Potuganti,in,500032,"8/29/18, 4:49 PM",CreditCard,2771469995,Premium Career Subscription (Annual),0,0,0,INR
+Prudhvi,Potuganti,in,500032,"7/11/18, 8:11 PM",CreditCard,2717528725,Premium Business Subscription (Annual),0,0,0,INR
+Prudhvi,potuganti,in,508206,"11/24/17, 9:39 AM",CreditCard,2485551565,Refund for order 2484711065 : Premium Career Subscription, -252, -1400, -1652,INR
+Prudhvi,potuganti,in,508206,"11/23/17, 12:35 PM",CreditCard,2484711065,Premium Career Subscription (Monthly),252,1400,1652,INR
+Prudhvi,potuganti,in,508206,"4/24/17, 11:14 PM",CreditCard,2317601255,Premium Career Subscription (Monthly),0,0,0,INR
+Prudhvi,potuganti,in,508206,"4/2/13, 10:14 AM",,65282583,Premium Job Seeker Subscription (Monthly),0,1400,1400,INR

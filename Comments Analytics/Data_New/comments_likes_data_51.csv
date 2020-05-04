@@ -1,0 +1,48 @@
+comment_post_link,comment_content,comment_likes_counts,like_names,like_headlines,like_profile_links,comment_reply_counts,comments_replies_content,comments_replies_names,comments_replies_headlines,comments_replies_links
+https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6465197451069493248,"Ha ha... trained ur Neural Network to deal bias very well
+
+",3,"['\n          Nishant Karmavat\n            \n    2nd degree connection\n\n2nd\n\n                  ', '\n          Omer Wajihuddin Syed\n            \n    2nd degree connection\n\n2nd\n\n                  ', '\n          Tarry Singh\n            • Following\n        ']","['Senior Billing and Dispute Specialist at XPO Logistics, Inc.', 'Software Engineer at Capital One | Python | PySpark | Data Science | Machine Learning', 'Transforming Enterprises & Industries with Machine Learning & AI']","['https://www.linkedin.com/in/nishant-karmavat-512a2858/', 'https://www.linkedin.com/in/syedomerw/', 'https://www.linkedin.com/in/tarrysingh/']",0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6464874279774318592,"NLP papers. Pls cover Deployment services...I find hard to get really relevant
+good reports on it
+
+",3,"['\n          Saurabh Bhagvatula\n            \n    2nd degree connection\n\n2nd\n\n                  ', '\n          Venkata Ravindra Nittala\n            \n    out of network\n\n3rd+\n\n                  ', '\n          Navin Manaswi\n            \n    2nd degree connection\n\n2nd\n\n                  ']","['Machine Learning | Deep Learning | Natural Language Processing | Software Engineering', 'Lead Data Scientist at Certara', 'Founder and CEO at WoWExp Technologies and GDE in ML']","['https://www.linkedin.com/in/saurabhbhagvatula/', 'https://www.linkedin.com/in/venkata-ravindra-nittala-0303129/', 'https://www.linkedin.com/in/navin-manaswi-1a708b8/']",0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6464079489981829120,"Hyderabad ??
+
+",0,NA,NA,NA,0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6463999300610383872,"Very true.
+
+",3,"['\n          Kamal Mustafa\n            \n    2nd degree connection\n\n2nd\n\n                  ', '\n          Suraj Thakur\n            \n    2nd degree connection\n\n2nd\n\n                  ', '\n          Alok D.\n            \n    2nd degree connection\n\n2nd\n\n                  ']","['Data Scientist at Scienaptic Systems', 'Data Engineer Intern at iPRO Group Pty Ltd', 'Data Science ( Product + Solutioning )']","['https://www.linkedin.com/in/kamal-mustafa-7b604b15/', 'https://www.linkedin.com/in/surajthakur09/', 'https://www.linkedin.com/in/alokdglobal/']",0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6463387054758825984,"Crazy .
+
+",1,['\n          Mathangi Sri\n            \n    1st degree connection\n\n1st\n\n                  '],['Data Science Leader|Top 10 Data Scientists in India | 20 Patents|Top 100 women in India recogized by INBA'],['https://www.linkedin.com/in/mathangisri/'],0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6462482398499217408,"That's an amazing work. Would like to connect.
+
+",1,['\n          Sreekavitha Parupalli\n            \n    out of network\n\n3rd+\n\n                  '],['Product Engineer at Sprinklr'],['https://www.linkedin.com/in/shreekavithaa-parupalli/'],0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6461876142742827008,"Saneesh Veetil
+
+",0,NA,NA,NA,0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6460818355694727168,"Thanks for tagging. The information you gave is a bit vague for me. Most of
+the time, I decide the tools after I have a look at sample data and required
+application to be build and quantum of data.    Assuming you have tera bytes
+of data and you download the sample. pre-process it in python (pandas etc.)
+and model on sklearn , then you can use pyspark or such tools to automate in
+data pipe line at scale.  Sage maker is a kinda of plug and play solution. Is
+your data clean enough to plug directly ? How much pre processing do you need
+before you can use sagemaker ?You should give a try with free tier on a sample
+... Although sage maker says high performance algorithms, may be designing
+from scratch or free implementations may save you costs in long term
+(application dependent).
+
+",2,"['\n          Pavan Pantangi\n            \n    2nd degree connection\n\n2nd\n\n                  ', '\n          Sachin Tripathi\n            \n    2nd degree connection\n\n2nd\n\n                  ']","[""Business Analytics Developer at The Children's Place"", 'Designing Data intensive applications at KarmaLifeAI']","['https://www.linkedin.com/in/pavan-pantangi-87127169/', 'https://www.linkedin.com/in/tripathisachin/']",3,"['\n\nThank you so much Prudhvi your answer covers all part of my query. There are\nsome follow up questions : 1-stage of using pyspark at scale : is this on aws\nor on local system. Because I have ran into OOM errors with pyspark too on\nlocal system. 2-As sage maker provides notebook, will it not be advisable to\nuse Pandas etc to preprocess the data on aws directly.\n\n…see more\n\n', ""\n\n1\\. Once you figure out logic, deploy pyspark in server itself and debug on a\nsmall sample and run full fledged. you can devlop,debug pyspark script on\nlocal as well.  2\\. Didn't work much on sagemaker. If it provides a tool to do\ndata munging which is as good as panadas, then go for it.\n\n"", '\n\nPrudhvi thanks for the tips🙂\n\n']","['Sachin Tripathi', 'Prudhvi Potuganti', 'Sachin Tripathi']","['\n        Designing Data intensive applications at KarmaLifeAI\n      ', '\n        Data Scientist | Craves to Learn | Loves to Solve | Lives to teach\n      ', '\n        Designing Data intensive applications at KarmaLifeAI\n      ']","['https://www.linkedin.com/in/tripathisachin/', 'https://www.linkedin.com/in/prudhvip/', 'https://www.linkedin.com/in/tripathisachin/']"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6460818355694727168,"1\. Once you figure out logic, deploy pyspark in server itself and debug on a
+small sample and run full fledged. you can devlop,debug pyspark script on
+local as well.  2\. Didn't work much on sagemaker. If it provides a tool to do
+data munging which is as good as panadas, then go for it.
+
+",1,['\n          Sachin Tripathi\n            \n    2nd degree connection\n\n2nd\n\n                  '],['Designing Data intensive applications at KarmaLifeAI'],['https://www.linkedin.com/in/tripathisachin/'],0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6458573793903374336,"To complete all of them fast, read deep work first
+
+",2,"['\n          Srinivasa Rao Guntuku\n            \n    2nd degree connection\n\n2nd\n\n                  ', '\n          Tushar Pulipparambil\n            \n    2nd degree connection\n\n2nd\n\n                  ']","['Creating a Paradigm Shift in EDUCATION & ENTREPRENEURSHIP and working on to bring Systemic Change in the Political Arena', 'Pre-sales Professional']","['https://www.linkedin.com/in/srinivasaguntuku/', 'https://www.linkedin.com/in/tushar-pulipparambil-070a722/']",0,['NA'],['NA'],['NA'],['NA']
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6458389656743567360,"Correlation = 0.9
+
+",0,NA,NA,NA,0,['NA'],['NA'],['NA'],['NA']

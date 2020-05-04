@@ -1,0 +1,26 @@
+Challenge Date,IP Address,User Agent,Country,Challenge Type
+Thu Jul 25 15:08:04 UTC 2019,183.83.173.187,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,CAPTCHA_CHALLENGE
+Mon Sep 02 09:02:16 UTC 2019,2405:204:612e:7dfd:bd63:30a5:df6e:b7e4,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36",India,CAPTCHA_CHALLENGE
+Sat Aug 17 14:18:25 UTC 2019,123.201.77.50,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",India,CAPTCHA_CHALLENGE
+Thu Aug 01 02:24:42 UTC 2019,183.83.173.187,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.335.1 motorola_XT1635-02:android_8.0.0,India,NATIVE_CAPTCHA_CHALLENGE
+Wed Jul 24 19:38:22 UTC 2019,2402:3a80:450:da34:c932:3a06:cf29:a854,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",India,CAPTCHA_CHALLENGE
+Tue Jul 23 14:10:35 UTC 2019,125.99.157.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,CAPTCHA_CHALLENGE
+Tue Sep 03 09:00:24 UTC 2019,183.83.142.221,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,CAPTCHA_CHALLENGE
+Wed Jul 31 01:43:19 UTC 2019,183.83.173.187,"Mozilla/5.0 (Linux; Android 8.0.0; XT1635-02) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36",India,CAPTCHA_CHALLENGE
+Wed Aug 28 11:03:01 UTC 2019,125.99.157.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,CAPTCHA_CHALLENGE
+Fri Aug 23 10:20:11 UTC 2019,123.176.36.114,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,CAPTCHA_CHALLENGE
+Sun Aug 18 14:11:26 UTC 2019,2401:4900:3684:ef40:5d74:9968:6cde:88bb,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.342 motorola_XT1635-02:android_8.0.0,India,NATIVE_CAPTCHA_CHALLENGE
+Tue Nov 05 06:25:25 UTC 2019,125.99.157.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0,India,CAPTCHA_CHALLENGE
+Sat Jun 16 05:21:31 UTC 2018,111.91.1.167,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Wed Sep 04 01:16:25 UTC 2019,183.83.142.221,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,TOS_RATE_LIMITED_CHALLENGE
+Fri Aug 09 06:41:53 UTC 2019,125.99.157.91,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",India,CAPTCHA_CHALLENGE
+Thu Aug 29 23:45:58 UTC 2019,2401:4900:368b:7421:5004:bc2a:4ab2:42a9,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.344.1 motorola_XT1635-02:android_8.0.0,India,NATIVE_CAPTCHA_CHALLENGE
+Tue Jul 30 01:33:43 UTC 2019,183.83.173.187,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,CAPTCHA_CHALLENGE
+Wed Jul 24 13:08:56 UTC 2019,183.83.173.187,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.330 motorola_XT1635-02:android_8.0.0,India,NATIVE_CAPTCHA_CHALLENGE
+Tue Aug 27 11:30:12 UTC 2019,125.99.157.91,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",India,CAPTCHA_CHALLENGE
+Fri Aug 09 17:00:23 UTC 2019,219.91.254.61,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36",India,CAPTCHA_CHALLENGE
+Wed Jul 31 12:37:59 UTC 2019,125.99.157.91,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",India,CAPTCHA_CHALLENGE
+Thu Aug 29 12:01:12 UTC 2019,125.99.157.91,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0,India,CAPTCHA_CHALLENGE
+Wed Jun 19 10:25:21 UTC 2019,2409:4070:2e1b:42fe:2574:46c1:b4f:7627,"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",India,EMAIL_PIN_CHALLENGE
+Thu Jul 25 15:08:23 UTC 2019,2402:3a80:44f:9609:602a:a2a8:48ab:5101,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",India,CAPTCHA_CHALLENGE
+Mon Aug 19 01:27:43 UTC 2019,183.83.173.187,LIAuthLibrary:0.0.3 com.linkedin.android:4.1.342 motorola_XT1635-02:android_8.0.0,India,NATIVE_CAPTCHA_CHALLENGE

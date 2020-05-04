@@ -1,0 +1,111 @@
+post_link,Profile_Link,profile_headline,likes_count,comments_count,post_content
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6574900972060020736,Ritesh Bhagwat,Data Scientist | Applied Mathematics | Spiritually Bayesian!,93,5 Comments,"hashtag#Sarcasm again! Isaac Asimov (Biochemist) said ""The saddest aspect of
+life right now is that science gathers knowledge faster than society gathers
+wisdom"". I think of this quote everytime when some ""achiever"" wants to start a
+Data Science project with agile methodology ! ;-) ;-) hashtag#humor
+hashtag#datascience hashtag#artificialintelligence hashtag#fun
+hashtag#machinelearning hashtag#agile hashtag#agilescrum
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6574883243332591616,vivek chaudhary,Data Scientist at GSAID,101,23 Comments,"hashtag#datascience hashtag#datascientist Since a long seen some post from
+some of the founders ""Want to connect with Data science students/Data
+Scientist"" and individual commenting ""interested"". Do you think they will text
+you,just they are busy and for their presence posting such without any
+intention instead try to learn,explore,try,try,deploy to move ahead. Have a
+great day!!
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6574660998744104960,AbdulMajedRaja RS,Customer Intelligence at Cisco,97,15 Comments,"Upskilling is a huge business these days and a lot of college students fall
+for some scams too! Here's Shubhangi showing us how she leveraged free
+resources. Share it with your friends who are trying to upskill - without
+paying a bulk $$$$!
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6574594043995611137,Rajneesh Tiwari,AI|ML|DS at Ericsson | Kaggle Top 1%,424,51 Comments,"Happy to announce that my team has scored Rank 5 (top 1%) out of ~6500
+participants in the recently concluded AV WNS Hackathon. Pvt LB @
+https://lnkd.in/fNrAa2d The problem statement dealt with a specific use case
+on CTR problem and participants were asked to predict the probability of click
+on an advert. Preliminary code is posted on my repo: https://lnkd.in/fAuWuHe .
+Feel free to star/fork the repo if you like. This will be updated in a while.
+Final cleaned code can be found at: https://lnkd.in/fE-5pFR Follow
+instructions at: Instructions to Run.docx to run code E2E implementation
+below: hashtag#hackathon hashtag#datascience hashtag#machinelearning
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6574171374514987008,Prudhvi Potuganti,Data Scientist | Craves to Learn | Loves to Solve | Lives to teach,384,11 Comments,"When you hunger for excellence in education is as big as HIS hunger. And when
+this is better understood and represented by your employees. Happy Vinayaka
+Chavithi
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6573259180776480768,Asif Bhat,✅Data Analyst✅SAP BI ✅YellowFin BI ✅OCJP ✅ITIL✅OCP✅Docker✅Kubernetes✅OpenShift,602,21 Comments,"👉 REAL GOLD = Springer Series books 👈 🎥 Popular Posts🎥 ➡Getting Your First
+Data Science Job - https://lnkd.in/fQGHM2J ➡DATA SCIENCE INTERVIEW QUESTIONS -
+https://lnkd.in/feKZVhv ➡EXCEL EXPERT IN NO TIME - https://lnkd.in/fXC4dhj ➡10
+Minutes to Pandas - https://lnkd.in/fpwaBCq ➡Numpy 100 Exercises -
+https://lnkd.in/fVX7Khk ➡Quick Reference Sheet (ML , DL & AI) -
+https://lnkd.in/fEVYMGD ➡Machine Learning Yearning By Andrew Ng -
+https://lnkd.in/f_E-_pf ➡MUST READ ARTICLES FOR DATA SCIENCE ENTHUSIAST -
+https://lnkd.in/fwPmurj ➡Coursera Deep Learning Course Notes -
+https://lnkd.in/fwQRK_G ➡Commonly used Machine Learning Algorithms -
+https://lnkd.in/f8msx2T ➡DATA SCIENCE LEARNING PATH FOR COMPLETE BEGINNER -
+https://lnkd.in/f6NJJk9 hashtag#mybookshelf hashtag#statistics
+hashtag#datascience hashtag#predictivemodeling hashtag#regression
+hashtag#patternrecognition hashtag#machinelearning hashtag#machine_learning
+hashtag#dataanalytics hashtag#dataanalysis hashtag#appliedpredictivemodelling
+hashtag#springer hashtag#deeplearning hashtag#classification Asif Bhat
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6574285529616093184,Tapas Pal,Big Data Engineer at Robert Bosch Engineering and Business Solutions Private Limited,59,15 Comments,"hashtag#Tricks to flatten list of list/elements in a list in python ### I have
+used reduce function(Higher Order) and extend method. from functools import
+reduce a=[[""a"",""b""],[""c"",""d""],[""e""]] s=reduce(lambda x,y:x+y,a) print(s)
+hashtag#Output:['a', 'b', 'c', 'd', 'e'] l=[] for i in a: l.extend(i) print(l)
+hashtag#Output:['a', 'b', 'c', 'd', 'e'] #--------
+b=[[""a"",""b""],[""c"",""d""],[""e""],""f""] s=reduce(lambda x,y:x+y,b) print(s) #
+Error:can only concatenate list (not ""str"") to list l=[] for i in b:
+l.extend(i) print(l) hashtag#Output:['a', 'b', 'c', 'd', 'e', 'f'] #-------
+c=[[""a"",""b""],[""c"",""d""],[""e""],""f"",1] for i in c: l.extend(i) print(l)
+hashtag#Error:'int' object is not iterable hashtag#python
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6573424744090173440,Amrita Angappa,"Hubspot and SEMrush certified Technical Content Writer| Featured in ""Stars at Work"" by LetPublish media",173,58 Comments,"I am a huge fan of Bahubali franchise! Those films literally made Prabhas my
+crush, who obviously doesn't know I exist 😂 I expected a lot out of Saaho,
+Prabhas's next 350-crore budget film. It is a dull affair. The reviews blamed
+the story and script. What I loved the most about Bahubali was the magic of
+storytelling, narration and extraordinary direction. No movie has flopped
+because of bad visuals or music. If they are bad, they are just seen as flaws.
+Even with a head spinning budget, strong team and mind blowing visual effects
+and music, innumerable movies have flopped. Reason? Bad story, script,
+screenplay or direction. A writer's role is huge here. Many small budget films
+with new faces have been a huge hit and won awards. All thanks to the story,
+script and the writer. These days, like top Vlogger Casey Neistat says, all
+you need are a mobile phone and wi-fi connection to go viral! Apart from time
+and lot of effort, I spend $0 on hashtag#fresherdiaries! The story and
+strategy are all that matters! A bad content marketing strategy could prove
+fatal for any business. We, content writers, will never let that happen. We
+write content that sells and impacts. Your thoughts? Angappa Praveen Daman
+Megha Vanky  Vagisha Sakshi  Vanshika Hardik Esha Geethapriya Ashi Oleg
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6573811861194661888,Arunkumar L,Deep Learning | Machine Learning | AI,675,28 Comments,"I made a python package that sends your deep learning training metrics to your
+slack channel or to a specific user. It lets you remotely monitor your model
+and it's easy to use. Check it out on GitHub. If you like this project, please
+consider giving it a star. GitHub: https://lnkd.in/fH2cTQs hashtag#python #
+hashtag#deeplearning hashtag#training hashtag#AI hashtag#slack hashtag#pip
+hashtag#machinelearning hashtag#slackbot hashtag#monitor
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6573771289637597184,Srivatsan Srinivasan,"Chief Data Scientist | Data (Big, Huge, Small, Fast, Whatever) | Cloud | Forever Student",145,15 Comments,"This is not a data science post.... This is for job seekers, Just that not to
+fall in trap of some companies CEO, COO, VP and employees posting ""They have
+added some XXX connections and doing favor by asking job seekers to comment
+interested, post which they will review their profile and let them know of any
+suitable opportunities"" I see quiet a good number in my network commenting on
+it. I understand finding job is stressful and tiresome but these companies are
+just using you as a medium to build their network and brand. Below is LinkedIn
+policy which clearly states that their account will be restricted if they see
+""An unusually large number of page views from the account."" With they posting
+such messages almost every alternate day and getting 1000's of comments they
+must have already got suspended Again is up to you. You are best person to
+judge for yourself. Felt responsible to share this as these are guys whom I
+have been interacting with for last few months Page to LinkedIn policy in
+first comment
+
+"

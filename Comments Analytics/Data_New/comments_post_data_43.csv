@@ -1,0 +1,96 @@
+post_link,Profile_Link,profile_headline,likes_count,comments_count,post_content
+https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6494251265386745856,Vimal V.,Data Driven Strategies,11,14 Comments,"Hmm...It's hashtag#monkey's mind! Whom should I hashtag#prefer to build a team
+for my new hashtag#data science (AI) hashtag#project? I understand the
+importance of mix but at what ratio as both are new to DS. These are PoCs, MVP
+and early development to scale. Not for production and deployment. This is a
+common question I hear from bussinesses setting up or starting to focus/invest
+on data driven strategy. hashtag#Option 1: Fresher, Decent coding skills,
+Excellent Learning attitude, Good Aptitude, Strong Mathematics, Passion and
+aggressive to learn hashtag#Option 2: Experienced, 3-5 years of development
+experience, Upskilling to keep up with changing trends, more focussed on at
+least 40% salary hike, Fresh to data science, Good aptitude, Decent Math
+skills, there is interest but not much passionate, may be difficult or too
+much effort needed to unlearn Whom should I prefer? Any hashtag#thoughts?
+hashtag#datascience hashtag#research hashtag#gradvalley hashtag#translational
+hashtag#artificialintelligence hashtag#mathematics hashtag#options
+hashtag#pocs hashtag#mvps hashtag#salary hashtag#itdevelopment
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6493876323176550400,Jalaj Thanaki,Data Scientist | Technical Author | Natural Language Processing |Machine Learning|Deep Learning| Artificial Intelligence,243,36 Comments,"This year, I have decided to read for atleast an hour per day. I will be
+reading these books in 2019. Do you have your reading list ready..?! Please
+share your list as well. hashtag#readingchallenge
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6493693002958110721,Mohammad Shahebaz,Data Scientist | Kaggle Competition Master | Public Speaker,123,26 Comments,"I will be presenting a 2-day workshop on Introduction to Data Sciences and
+Getting started with NLP at Indian Institute of Technology, Madras as part of
+E-Cell initiative by the institution. I plan to cover extensively the bread
+and butter of NLP with Pytorch and live problem solving on a Kaggle
+competition. If you are around Chennai by 2-3 Feb. Feel free to register and
+say hello at the session. Avail early bird offer until Jan 26th
+-https://imojo.in/iitc hashtag#training hashtag#artificialintelligence
+hashtag#machinelearning hashtag#networking
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6493228333147492352,Navjot T.,Business Analyst Intern | Crédit Agricole CIB | Seeking Full-time Opportunities | Data Analytics | Business Intelligence,8,6 Comments,"Pun[in]tended That’s exactly what I need in my life right now 😀 Looks like
+they took “Artificial” Intelligence to its literal sense. Please don’t fall
+for such advertisements as data science in its true sense is not only about
+learning the algorithms but developing a sense of implementation in varied
+scenarios which could be only “Mastered” by experience gained over a certain
+time period. P.S It took me more time to learn Statistics
+hashtag#machinelearning hashtag#artificialintelligence hashtag#data
+hashtag#datascientist
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6492961082037104640,Sreemanta Kesh,Data Science | Machine Learning | Deep Learning,38,6 Comments,"Question of the day - What are some limitations of PCA? 1\. PCA does not work
+well with categorical variables which has more than one class let's say 0,1,2
+in Mathematical terms 2 is twice as far from 0 as 1 which does not convey the
+right meaning. 2\. Even though we are able to reduce the dimensions but that
+comes at a cost of some loss of information. 3\. PCA keeps the features which
+have high variance which explains the data set better but this might not
+always be the right assumption. hashtag#datasciencedaily hashtag#PCA
+hashtag#machinelearning
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6492735719461748736,Ankit Sharma,Decision Scientist at Flipkart,232,42 Comments,"Interviewer: I have fitted a binary classification model and got F1-score =
+0.99. Can I certainly be happy? Me: Not necessarily. Interviewer: Why? Please
+explain with an example. Me: If the dataset is highly imbalanced towards -ve
+class (lesser -ve examples), F1-score could be very high despite of the bad
+model. Example: +ve class-1000 examples, -ve class-10 examples Look at the
+following confusion matrix- TP TN PP 995 9 PN 5 1 F1-score = 0.99 Though, the
+model is really bad for -ve class! This happened because F1-score focuses on
+one class only and biased to the majority class. Now we have following two
+solutions: 1\. Treat smaller class as +ve class and larger class as -ve class.
+This will make smaller class your class of interest. Now maximize F-score
+metric. (But this technique won’t work in multi-class classification
+scenario.) 2\. Use Cohen’s Kappa metric (lies in -1 to 1) which takes into
+account both the classes. In the same Confusion matrix, Kappa’s value is only
+0.11. Try making it close to 1 by adjusting hyper-parameters or using other
+imbalanced data handling techniques. Kappa will be 1 iff when non-diagonal
+elements of confusion matrix are 0. (This would work for multi-class case
+also.) hashtag#MLbyte hashtag#modelevaluation hashtag#datascience
+hashtag#machinelearning
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6491889922344095744,Pawan Kumar,SEMrush Marketing Show Ambassador | Digital/Content Marketing Consultant | I Help Businesses & Startups In Their Growth,81,44 Comments,"Science Says First Born Child Is Most Intelligent. Oldest child really has the
+potential to become the next Einstein! :D In a study done by the University of
+Leipzig, The results showed that in a family with two children, the first-born
+is 60% likely to be more intelligent than the second-born. Is this the case
+with you and your siblings? What do you think?
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6491016944911810560,Sai Seetha Ram Nomula,Data engineer at Amgen,56,10 Comments,"Over the last two months, I have learned more than I could have ever imagined
+and proud to say that I am AWS certified developer. Thanks to Linux Academy
+and Udemy for providing excellent courses at an affordable price.
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6489831787185917952,Navjot T.,Business Analyst Intern | Crédit Agricole CIB | Seeking Full-time Opportunities | Data Analytics | Business Intelligence,47,34 Comments,"To all experienced data scientists in my network from a budding data
+scientist: I just started my day by reading a post from someone saying ""A data
+scientist without any software engineering background is a liability on the
+organization."" Is it really true? Is it all about writing clean codes?
+hashtag#machinelearning hashtag#analytics hashtag#artificialintelligence
+hashtag#data hashtag#bigdata hashtag#datascience hashtag#softwareengineers
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6490636470402023424,Pranay Tiwari,Senior Data Scientist at Fidelity Investments,76,1 Comment,"The best thing I saw on Twitter today. hashtag#Github hashtag#machinelearning
+
+"

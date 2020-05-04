@@ -1,0 +1,110 @@
+post_link,Profile_Link,profile_headline,likes_count,comments_count,post_content
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6490212207253655552,Sundar Ramamurthy,Principal Data Analyst at Verizon,42,24 Comments,"Is there any other usecases in deeplearning other than face recognition,
+object detection. Experts please comment. Your inputs will change the
+perspective of how we use deeplearning in real world today.
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6489559822709690368,Arunava Chakraborty,Research Intern @ Microsoft Research | Deep Learner | Artificial Intelligence,147,13 Comments,"Looking for an internship, can start now! (preferably from Feb) \-- Recently,
+the AI world saw a publish of the second edition to the most used and read
+Reinforcement Learning book of all time from Richard Sutton and Andrew Barto!!
+Being one of the best books, it provides an Introduction to the world of
+Reinforcement Learning! And as I said, is one of the most recommended reads
+for a beginner in RL. The authors are very kind to publish the entire book
+under Creative Commons License and make it available public for no cost! While
+you can always, pay the authors and contribute and help them out by buying the
+hardcover from Amazon or from MIT Press. The book comes supported with code
+which can be found here: https://lnkd.in/f5pvmt6 Link to the book:
+https://lnkd.in/f2_NJ-P An excellent excellent book to grasp the basics of RL!
+I wouldn't frame myself as a beginner of RL but there are a lot of concepts to
+learn! From today, I am starting to slowly read this book! I'll keep you all
+posted! Thanks!
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6489193428520398848,Ankit Rathi,Lead Architect - Data & AI | Author | Speaker | All views are my own,106,5 Comments,"These days, the only proof that we are human depends on our ability to solve a
+captcha.
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6489366736452845568,Sreemanta Kesh,Data Science | Machine Learning | Deep Learning,47,10 Comments,"Question of the day - Can you explain overfitting with respect to Decision
+Tree algorithm. Overfitting - It's a calculative measure of gap between the
+training and testing accuracy. Generally occurs when our model scans through
+all the data taking account for even outliers leading to a poor
+generalization. A decision tree model generally has low bias and a high
+variance since it does not begin with any prior assumption. When there are too
+many decision nodes to go through before arriving at the result i.e number of
+nodes to traverse before reaching the leaf nodes is high, the conditions that
+you are checking against becomes multiplicative. That is, the computation
+becomes (condition 1)&&(condition 2)&&(condition 3)&&(condition
+4)&&(condition5). Only if all the conditions are satisfied, a decision is
+reached. As you can see, this will work very well for the training set as you
+are continuously narrowing down on the data. The tree becomes highly tuned to
+the data present in the training set. But when a new data point is fed, even
+if one of the parameters deviates slightly, the condition will not be met and
+it will take the wrong branch. hashtag#datasciencedaily hashtag#decisiontrees
+hashtag#machinelearning
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6489001027302453248,"Aegis School of Business, Data Science, Cyber Security and Telecommunication","3,622 followers",25,3 Comments,"A great opportunity to meet and hear from the best selling author and an
+amazing YouTuber, Siraj Raval. Date: 28th January, 2019 Time: 10 AM - 1 PM
+Topic: Future of AI Venue: Aegis School of Data science, Mumbai REGISTRATIONS
+FOR FREE! For more details, contact Mr. Shaz Sayed at 8828111710 In
+association with School of AI, Mumbai.
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6488594537794142208,Kyle McKiou,I Teach Data Scientists How to Get Jobs,482,25 Comments,"The power of correctly framing your data science results... Let's say you
+create a model that predicts sales leads with 3% accuracy, while only 1% of
+the population are true leads. 1\. Your model is wrong 97% percent of the
+time. (Ouch.) 2\. Your model is right 300% as often as a baseline approach.
+(Nice.) Which one sounds better? They're both saying the exact same thing, but
+presented in a different way. They have been framed differently. And people
+will react to them very differently. 👉 What does this mean for data
+scientists? It means that when you have a good result, it is not enough to
+simply present the numbers. You must frame them appropriately for the audience
+to understand the value of the work. When presenting, make sure that you
+understand the needs and expectations of your audience so that you can
+communicate in way that presents your results in a favorable light. ✅ Focus on
+the positive, not the negative. ✅ Focus on improvements, not shortcomings. ✅
+Focus on opportunities, not problems. ✅ Focus on what you learned, not where
+you failed. hashtag#datascience hashtag#cognitivebiases hashtag#communication
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6488108834672996352,Karthikeyan P.T.R.,Business Analyst | Analytics Consulting | Data Science Communicator,86,5 Comments,"The uniqueness of the problem and data makes the field of data science
+exciting and interesting. Sales driver analysis for a pharma client will be
+completely different from the ones for a retailer. There are a lot of good
+things to work in a service based company compared to product based at least
+in the initial phase of the career to get exposed to multiple different
+problems from different domains. It enables you to bring in a whole new
+perspective to the team when compared to a person who can bring only one level
+of knowledge. It makes the side much more open to new ideas than sticking with
+the single protocol. (No offence to the master of one concept/people) If you
+had been following for a while, you would have seen me post about not being a
+data science generalist. This post contradicts the post in domain knowledge
+level, but I would suggest this level of exposure to problems in multiple
+domains can go a long way in anyone's data science journey. Because I see data
+science is here to stay and will become a basic necessity for every single
+organization to remain in the race. Make yourself irreplaceable by learning
+something new every day in data science. Hope this helps!
+hashtag#2ndYear2ndWeekDay1 hashtag#dailydatasciencewithptr
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6488081647123161088,srikanth govindavaram,Lead Engineer at United Technologies Research Center,1,1 Comment,"hashtag#environmentalprotection hashtag#indian
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6487311179806019584,Ishaan Jain,Investment Specialist | Govt. of India | Gartner | IIM-L | IIT-D | DCE,159,25 Comments,"Amazing tactic by Swiggy. Such small things go a long way. That's how you
+enhance customer stickiness - by making the customer feel valued and reminding
+him of his existing relationship with the app. +1 to Swiggy! Waiting for
+Zomato's response. P.S. Had I been at Swiggy's place, I would have also
+highlighted the total savings the customer made using the company's app.
+hashtag#Marketing hashtag#Strategy hashtag#Brand hashtag#Business
+hashtag#India
+
+"
+https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6486833083910852608,Prudhvi Potuganti,Data Scientist | Craves to Learn | Loves to Solve | Lives to teach,129,4 Comments,"A new manager assumes office at Data Science Company. While having 1-1 with a
+teammate, he notices spam folder open on teammate's screen. Manager: Did you
+miss someone’s email? Teammate : Nope. Actually…. Manager: So, you are bored
+with the job here… Teammate: I am a data scientist here and working on
+building spam classifier. .......................... If a digital marketer
+gets paid for browsing social media, Data Scientist gets paid for reading spam
+emails. Where is that guy who asked me “Why data scientist is the sexiest job
+of 21 century “ :P
+
+"
